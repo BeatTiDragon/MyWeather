@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">文字天气</string>
+    <string name="action_settings">设置</string>
+    <string name="action_refresh">更新</string>
+    <string name="action_city">城市</string>
+</resources>
