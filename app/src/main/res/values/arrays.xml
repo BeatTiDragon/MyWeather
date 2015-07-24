@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting">
+        <item>查看</item>
+        <item>模式</item>
+        <item>单位</item>
+        <item>关于</item>
+    </string-array>
+</resources>
